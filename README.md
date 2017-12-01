@@ -33,7 +33,8 @@ which it was compared.
 ![de loss](https://user-images.githubusercontent.com/23000971/33500182-fcb5bf52-d6fd-11e7-96dc-c8718d1ac515.JPG)
 
 # Genetic Algorithms
-
+In GAs, we have a pool or a population of possible solutions to the given problem. These solutions then undergo recombination and mutation (like in natural genetics), producing new children, and the process is repeated over various generations. Each individual (or candidate solution) is assigned a fitness value (based on its objective function value) and the fitter individuals are given a higher chance to mate and yield more “fitter” individuals. This is in line with the Darwinian Theory of “Survival of the Fittest”.
+In this way we keep “evolving” better individuals or solutions over generations, till we reach a stopping criterion.
 
 ## Loss Graph
 ![geloss](https://user-images.githubusercontent.com/23000971/33500203-1c4f662e-d6fe-11e7-96bd-e0c26407b96f.JPG)
